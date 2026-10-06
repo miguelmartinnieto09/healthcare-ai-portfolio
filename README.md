@@ -4,6 +4,14 @@ I'm Miguel Martín Nieto, a Biomedical Engineering graduate interested in machin
 
 This repository will contain my projects in Python, deep learning and medical AI.
 
+## Current Focus
+
+- Deep learning with PyTorch
+- Medical imaging AI
+- Clinical and healthcare data science
+- Explainable and reproducible machine-learning workflows
+- Building deployable ML systems with APIs, Docker and MLOps tools
+
 ## 🧠 Featured Projects
 
 ### [COPD Exacerbation Forecasting](https://github.com/miguelmartinnieto09/copd-exacerbation-forecasting)
