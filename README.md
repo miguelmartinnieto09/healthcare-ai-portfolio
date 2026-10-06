@@ -4,17 +4,12 @@ I'm Miguel Martín Nieto, a Biomedical Engineering graduate interested in machin
 
 This repository will contain my projects in Python, deep learning and medical AI.
 
-## Featured Projects
+## 🧠 Featured Projects
 
-### COPD Exacerbation Forecasting
+### [COPD Exacerbation Forecasting](https://github.com/miguelmartinnieto09/copd-exacerbation-forecasting)
 
-Machine learning project developed as my
-Biomedical Engineering bachelor's thesis.
+Machine-learning pipeline developed from my Biomedical Engineering Bachelor Thesis to investigate whether air pollution, meteorological and temporal variables can help forecast daily COPD-related emergency department visits.
 
-- Clinical and environmental time-series analysis
-- Predictive modelling with LightGBM, CatBoost
-  and neural networks
-- Temporal validation and feature selection
-- Model interpretability using SHAP
+**Tech:** Python · pandas · scikit-learn · LightGBM · CatBoost · SHAP · pytest
 
-**Status:** Preparing the code for public release.  
+**Highlights:** temporal validation · feature selection · independent 2023 test set · explainable AI
